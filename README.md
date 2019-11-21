@@ -5,13 +5,19 @@ this data into k clusters and then output the centroids of the clusters and the 
 the scoring function for the algorithm.
 
 Input: python kmeans.py [path/file-name] [k-value] [clustering-option]
+
 Output: 
+
 WC-SSE=15.2179 
+
 Centroid1=[49.00895,8.39655,12,3] 
+
 ... 
+
 CentroidK=[33.33548605,-111.7714182,9,97]
 
 For the clustering option:
+
 1 --> The four original attributes for clustering.
 
 2 --> A log transform to reviewCount and checkins.
